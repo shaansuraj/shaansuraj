@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suraj Sahu</h1>
 <h3 align="center">From the basics to the core, I am a self-taught full-stack web developer with hands-on experience in frontend and backend development and a hardcore programmer with a never-ending thirst to do better.</h3>
 
+<img align = "right" width = "400" src = "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdevjewel01&psig=AOvVaw1LyTeNxDF2WxXFyDiRIcVR&ust=1665064353117000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjSl6aeyfoCFQAAAAAdAAAAABAE">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaansuraj&label=Profile%20views&color=0e75b6&style=flat" alt="shaansuraj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/1shaansuraj" target="blank"><img src="https://img.shields.io/twitter/follow/1shaansuraj?logo=twitter&style=for-the-badge" alt="1shaansuraj" /></a> </p>

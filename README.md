@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/1shaansuraj" target="blank"><img src="https://img.shields.io/twitter/follow/1shaansuraj?logo=twitter&style=for-the-badge" alt="1shaansuraj" /></a> </p>
 
-- 🔭 I’m currently working on **The Homifiers**
+- 🔭 I’m currently working on **Pro Geeks**
 
 - 🌱 I’m currently learning **DevOps with AWS**
 
@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **P² (Programming and Poems)**
 
-- 📫 How to reach me **su16raj24@gmail.com**
+- 📫 How to reach me **suraj@progeeks.in**
 
 - 📄 Know about my experiences [linkedin.com/in/shaansuraj](linkedin.com/in/shaansuraj)
 

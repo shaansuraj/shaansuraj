@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Suraj+Sahu+Here...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">From the basics to the core, I am a self-taught full-stack web developer with hands-on experience in frontend and backend development and a hardcore programmer with a never-ending thirst to do better.</h3>
+<h3 align="center">From the basics to the core, I am a self-taught backend developer with hands-on experience in backend and cloud technologies and a hardcore programmer with a never-ending thirst to do better.</h3>
 
 <img align = "right" width = "400" alt = "Coder Here" src = "https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif"/>
 
@@ -13,11 +13,11 @@
 
 <p align="left"> <a href="https://twitter.com/1shaansuraj" target="blank"><img src="https://img.shields.io/twitter/follow/1shaansuraj?logo=twitter&style=for-the-badge" alt="1shaansuraj" /></a> </p>
 
-- 🔭 I’m currently working on **Pro Geeks**
+- 🔭 I’m currently working on **BrandLadder**
 
-- 🌱 I’m currently learning **DevOps with AWS**
+- 🌱 I’m currently learning **Automation using Cloud Formation**
 
-- 👯 I’m ready to work as a **MERN Stack Develeoper**
+- 👯 I’m ready to work as a **Backend Dveloper**
 
 - 🤝 I’m studying at **ITER, Bhubaneswar**
 
@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **P² (Programming and Poems)**
 
-- 📫 How to reach me **suraj@progeeks.in**
+- 📫 How to reach me **surajsahu9658@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/shaansuraj](linkedin.com/in/shaansuraj)
 

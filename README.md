@@ -1,9 +1,3 @@
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Suraj+Sahu+Here...;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
 <h1 align="center">Hi 👋, I'm Suraj Sahu</h1>
 <h3 align="center">Co-founder and Chief Technology Officer at BrandLadder Technologies Private Limited |Backend Engineer | Specializing in AWS | Scalable System Architect</h3>
 

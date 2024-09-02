@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for interns to work on [Psychiatry Rounds](https://psyrounds.com)
 
-- 👨‍💻 All of our projects are available at [https://brandladder.co.in](https://brandladder.co.in)
+- 👨‍💻 All of our projects are available at [https://brandladder.co.in](https://brandladder.co.in/our-innovation)
 
 - 📝 Know more about our services [https://www.brandladder.co.in/services](https://www.brandladder.co.in/services)
 

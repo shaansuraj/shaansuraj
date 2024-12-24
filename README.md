@@ -24,7 +24,7 @@
 <!-- About Me -->
 <h2 align="center">About Me</h2>
 <p align="center">
-  🎯 I'm currently the Co-Founder and Chief Technology Officer at <a href="https://brandladder.co.in" target="_blank">BrandLadder Technologies</a>, specializing in Backend Engineering, Cloud Technologies, and Scalable System Architectures.
+  🎯 I'm a Software Development Engineer - Backend, specializing in Backend Engineering, Cloud Technologies, and Scalable System Architectures.
   <br>
   🌟 With a strong passion for technology, I lead projects that bridge the gap between business needs and technical solutions.
   <br>
@@ -34,28 +34,27 @@
 <!-- Current Focus -->
 <h2 align="center">What I'm Currently Working On</h2>
 <ul>
-  <li>🔭 Developing <strong>LabD Home Diagnostics</strong> - an innovative home diagnostics platform.</li>
+  <li>🔭 Developing <strong>Picgen</strong> - an Anime Wallpaper Generator using Stable Diffusion</li>
   <li>🌱 Learning <strong>Advanced System Design and Architecture</strong> to continuously enhance my technical expertise.</li>
-  <li>👯 Open to collaborations at <a href="https://brandladder.co.in" target="_blank">BrandLadder Technologies Private Limited</a>.</li>
-  <li>🤝 Actively looking for interns for the <a href="https://psyrounds.com" target="_blank">Psychiatry Rounds</a> project.</li>
+  <li>👯 Prompt Engineering</li>
 </ul>
 
 <!-- Projects -->
-<h2 align="center">Our Projects</h2>
+<h2 align="center">My Projects</h2>
 <p align="center">
-  👨‍💻 Explore our cutting-edge projects at <a href="https://brandladder.co.in/our-innovation" target="_blank">Our Innovations</a>.
+  👨‍💻 Explore My Projects at <a href="https://github.com/shaansuraj" target="_blank">My Repositories</a>.
   <br>
-  📝 Learn about our services at <a href="https://www.brandladder.co.in/services" target="_blank">Our Services</a>.
+  📝 You can write to me at <a href="mailto:surajsahu9658@gmail.com" target="_blank">Email</a>.
 </p>
 
 <!-- Contact -->
 <h2 align="center">Contact Me</h2>
 <p align="center">
-  💬 Ask me about: <strong>System Design, Backend Development, Cloud Technologies</strong>.
+  💬 Ask me about: <strong>System Design, Backend Development, Cloud Technologies, Generative AI</strong>.
   <br>
-  📫 Reach me at: <a href="mailto:suraj@brandladder.co.in"><strong>suraj@brandladder.co.in</strong></a>.
+  📫 Reach me at: <a href="mailto:surajsahu9658@gmail.com"><strong>surajsahu9658@gmail.com</strong></a>.
   <br>
-  📄 View my experiences on <a href="https://drive.google.com/file/d/1Zfgk4AU087k_aHPfwfvgevuAynSDAhVS/view?usp=drive_link" target="_blank">Google Drive</a>.
+  📄 View my experiences on <a href="https://drive.google.com/file/d/1dffIN5SqKfkAZ18HuDU_Yi_E2ocfG9dG/view?usp=sharing" target="_blank">Resume</a>.
   <br>
   ⚡ Fun fact: <strong>I curse everyone who checks my repositories but does not leave a star ⭐.</strong>
 </p>

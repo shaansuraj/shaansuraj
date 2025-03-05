@@ -21,6 +21,8 @@
   </a>
 </p>
 
+<img src="https://firebasestorage.googleapis.com/v0/b/brandladder-webapp.appspot.com/o/team%2Fcover.jpg?alt=media&token=1a6e88cf-cb4b-42db-910d-cb33e18358f2"/>
+
 <!-- About Me -->
 <h2 align="center">About Me</h2>
 <p align="center">

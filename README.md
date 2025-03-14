@@ -93,7 +93,7 @@ Below are a few of my **featured projects** that showcase my expertise:
       <h3>RepoScan CLI</h3>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaansuraj&repo=RepoScan-CLI&theme=radical" alt="RepoScan-CLI"/>
       <p>
-        A powerful CLI tool that scans public GitHub repos for coding issues, security vulnerabilities, and complexity using **Pylint**, **Bandit**, **Radon**, **Semgrep**, and **SonarQube**.
+        A powerful CLI tool that scans public GitHub repos for coding issues, security vulnerabilities, and complexity using Pylint, Bandit, Radon, Semgrep, and SonarQube.
       </p>
       <a href="https://github.com/shaansuraj/RepoScan-CLI" target="_blank">[➡ Visit Repo]</a>
     </td>
@@ -101,7 +101,7 @@ Below are a few of my **featured projects** that showcase my expertise:
       <h3>Insightify</h3>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaansuraj&repo=insightify&theme=radical" alt="Insightify"/>
       <p>
-        An Android app that provides **AI-generated news summaries** using **SpaCy NLP**. Integrates with **News API**, supports **bookmarks**, **user authentication**, and summarizing external news links.
+        An Android app that provides AI-generated news summaries using SpaCy NLP. Integrates with News API, supports bookmarks, user authentication, and summarizing external news links.
       </p>
       <a href="https://github.com/shaansuraj/insightify" target="_blank">[➡ Visit Repo]</a>
     </td>
@@ -109,7 +109,7 @@ Below are a few of my **featured projects** that showcase my expertise:
       <h3>QuickMask VPN</h3>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaansuraj&repo=QuickMask-VPN&theme=radical" alt="QuickMask VPN"/>
       <p>
-        A **Java & Firebase**-powered VPN app allowing free usage of **100+ servers**. Focused on secure connections and stable performance.
+        A Java & Firebase-powered VPN app allowing free usage of 100+ servers. Focused on secure connections and stable performance.
       </p>
       <a href="https://github.com/shaansuraj/QuickMask-VPN" target="_blank">[➡ Visit Repo]</a>
     </td>

@@ -3,7 +3,7 @@
 <!-- TOP BANNER / HERO IMAGE -->
 <p align="center">
   <img 
-       src="https://images.unsplash.com/photo-1585691575077-4393f2fefe7b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80" 
+       src="https://firebasestorage.googleapis.com/v0/b/brandladder-webapp.appspot.com/o/team%2Fcover.jpg?alt=media&token=1a6e88cf-cb4b-42db-910d-cb33e18358f2&auto=format&fit=crop&w=1950&q=80" 
        alt="Banner"
        width="100%"
   />
@@ -37,8 +37,6 @@
 </p>
 
 ---
-
-<img src="https://firebasestorage.googleapis.com/v0/b/brandladder-webapp.appspot.com/o/team%2Fcover.jpg?alt=media&token=1a6e88cf-cb4b-42db-910d-cb33e18358f2"/>
 
 
 ## 🚀 About Me

@@ -19,7 +19,20 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: shaansuraj
-          # You can specify additional parameters if needed
+
+      # Debugging step to list files
+      - name: List files in the working directory
+        run: ls -alh
+
+      # Debugging step to check if the SVG is generated
+      - name: Check if SVG is generated
+        run: |
+          if [ -f github-contribution-grid-snake.svg ]; then
+            echo "SVG generated successfully."
+          else
+            echo "SVG not found!"
+            exit 1
+          fi
 
       # Commit and push the generated SVG to a specific branch or location
       - name: Commit and Push SVG

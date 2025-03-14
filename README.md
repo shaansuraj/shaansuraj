@@ -196,12 +196,36 @@
 
 
 <!-- GitHub Stats -->
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaansuraj&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaansuraj&theme=radical" alt="GitHub Streak"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaansuraj&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
+<h1 align="center">Hi 👋, I'm Shaan Suraj</h1>
+
+<p align="center">
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=shaansuraj.shaansuraj" alt="Visitor Count"/>
+</p>
+
+<h2 align="center">GitHub Statistics</h2>
+<p align="center">
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shaansuraj&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaansuraj&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaansuraj&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<h2 align="center">Achievements</h2>
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=shaansuraj&theme=radical" alt="GitHub Trophies"/>
+</p>
+
+<h2 align="center">Activity Graph</h2>
+<p align="center">
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaansuraj&theme=github" alt="GitHub Activity Graph"/>
+</p>
 
 <!-- Footer -->
 <p align="center">

@@ -21,12 +21,12 @@ jobs:
           github_user_name: shaansuraj
           # You can specify additional parameters if needed
 
-      # (Optional) Commit and push the generated SVG to a specific branch or location
+      # Commit and push the generated SVG to a specific branch or location
       - name: Commit and Push SVG
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add output/github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.svg
           git commit -m "Update snake.svg"
           git push
         env:

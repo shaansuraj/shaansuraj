@@ -13,28 +13,21 @@ jobs:
       # Checkout the repository code
       - name: Checkout Repository
         uses: actions/checkout@v2
+        with:
+          ref: main  
 
-      # Generate the snake animation SVG
+      # Generate the snake animation SVG and output it in the repository root
       - name: Generate snake.svg
         uses: Platane/snk@master
         with:
           github_user_name: shaansuraj
+          svg_out_path: github-contribution-grid-snake.svg
 
-      # Debugging step to list files
-      - name: List files in the working directory
-        run: ls -alh
+      # Debug: List all SVG files to verify the output location
+      - name: Find SVG Files
+        run: find . -type f -name "*.svg"
 
-      # Debugging step to check if the SVG is generated
-      - name: Check if SVG is generated
-        run: |
-          if [ -f github-contribution-grid-snake.svg ]; then
-            echo "SVG generated successfully."
-          else
-            echo "SVG not found!"
-            exit 1
-          fi
-
-      # Commit and push the generated SVG to a specific branch or location
+      # Commit and push the generated SVG to the repository
       - name: Commit and Push SVG
         run: |
           git config --global user.name "GitHub Actions"

@@ -321,7 +321,7 @@ Below are a few of my **featured projects** that showcase my expertise:
 <!-- SNAKE GAME / FUN ANIMATION -->
 <p align="center">
   <img 
-       src="https://github.com/shaansuraj/shaansuraj/blob/output/github-contribution-grid-snake.svg" 
+       src="https://github.com/shaansuraj/shaansuraj/github-contribution-grid-snake.svg" 
        alt="snake animation" 
   />
 </p>

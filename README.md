@@ -328,6 +328,6 @@ Below are a few of my **featured projects** that showcase my expertise:
 
 <!-- FOOTER GIF / CTA -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxfgmQ1r2m09O8mA/giphy.gif" width="200" alt="Working Hard" /><br/>
+  <img src="https://giphy.com/embed/13GIgrGdslD9oQ" width="200" alt="Working Hard" /><br/>
   <strong>“Innovation is the outcome of a habit, not a random act.”</strong>
 </p>

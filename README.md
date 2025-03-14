@@ -1,79 +1,163 @@
-<!-- Header -->
+
+
+<!-- TOP BANNER / HERO IMAGE -->
+<p align="center">
+  <img 
+       src="https://images.unsplash.com/photo-1585691575077-4393f2fefe7b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80" 
+       alt="Banner"
+       width="100%"
+  />
+</p>
+
+<!-- COOL WAVING HAND GIF & TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Suraj+Sahu;Co-Founder+%26+CTO+at+BrandLadder;Backend+Engineer+%7C+AWS+Expert;Scalable+System+Architect" alt="Typing SVG">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  Hey there, I'm <span style="color:#00FF00;">Suraj "Shaan" Sahu</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<!-- Intro -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaansuraj&label=Profile%20views&color=0e75b6&style=flat" alt="shaansuraj" /> 
-  <a href="https://github.com/shaansuraj?tab=repositories">
-    <img src="https://img.shields.io/github/followers/shaansuraj?label=Follow&style=social" alt="GitHub followers">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=560&lines=SDE+Intern+at+Fidelity+International;Cloud+%2F+Backend+Developer;Open+Source+Contributor+%7C+AI+Explorer;CTO+at+BrandLadder+%7C+System+Architect" alt="Typing SVG" />
+</p>
+
+<!-- VISITOR & FOLLOW BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaansuraj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <a href="https://github.com/shaansuraj?tab=followers">
+    <img src="https://img.shields.io/github/followers/shaansuraj?label=Follow%20Me&style=social" alt="GitHub followers">
   </a>
   <a href="https://twitter.com/shaansuraj01">
-    <img src="https://img.shields.io/twitter/follow/shaansuraj01?label=Twitter&style=social" alt="Twitter followers">
+    <img src="https://img.shields.io/twitter/follow/shaansuraj01?label=Follow%20%40shaansuraj01&style=social" alt="Twitter followers">
   </a>
 </p>
 
-<!-- GitHub Trophies -->
+<!-- SHORT INTRO GIF -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shaansuraj&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies">
-  </a>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="120" alt="Hello" />
 </p>
+
+---
 
 <img src="https://firebasestorage.googleapis.com/v0/b/brandladder-webapp.appspot.com/o/team%2Fcover.jpg?alt=media&token=1a6e88cf-cb4b-42db-910d-cb33e18358f2"/>
 
-<!-- About Me -->
-<h2 align="center">About Me</h2>
+
+## 🚀 About Me
+Hi there! I'm **Suraj Sahu**, a passionate **Software Engineer** pursuing a **BTech in Computer Science & Engineering** at the Institute of Technical Education and Research, Bhubaneswar. I thrive on:
+
+- **Cloud Platform Applications & Backend Development**  
+- Building **scalable systems** and optimizing performance  
+- Exploring **Generative AI** and **Prompt Engineering**  
+
+Over the years, I’ve:
+- **Completed 4 internships** across diverse tech stacks  
+- Contributed to projects supporting **thousands of users**  
+- **Mentored** 30+ developers in open-source contributions and hackathons  
+- Achieved top 10 rankings in **national-level hackathons** multiple times  
+
+Check out my major internship experiences and skill set below to see where I can add value to your team or project.
+
+> “**Be passionate, be involved, and make an impact.**”
+
+---
+
+## 💼 Internship & Experience Highlights
+**Fidelity International (Jan 2025 - Present)**  
+- Enhanced backend services using **Java + Spring Boot** for high transaction volumes.  
+- Collaborated on **financial applications** ensuring smoother user experiences.
+
+**Celebal Technologies (July 2024 - Sept 2024)**  
+- Built backend systems with **Node.js & MongoDB**, improving solution efficiency by **30%**.  
+- **Optimized APIs** and data queries for smoother workflows.
+
+**UDBHA.com (Jan 2023 - Feb 2024)**  
+- Designed scalable, secure systems with **99.9% uptime**.  
+- Deployed cost-optimized API infrastructure to serve **20,000+ daily users**.
+
+**LaraPush.com (Nov 2021 - May 2022)**  
+- Engineered system to handle **10M+ subscribers** for push notifications.  
+- Implemented triggers enabling **1M+ push notifications** in **under 1 minute**.
+
+---
+
+## 🎓 Education
+**Institute Of Technical Education And Research, Bhubaneswar**  
+- B.Tech in Computer Science & Engineering (2021 - 2025)  
+
+---
+
+## 🌟 Projects & Highlights
+
+Below are a few of my **featured projects** that showcase my expertise:
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>RepoScan CLI</h3>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaansuraj&repo=RepoScan-CLI&theme=radical" alt="RepoScan-CLI"/>
+      <p>
+        A powerful CLI tool that scans public GitHub repos for coding issues, security vulnerabilities, and complexity using **Pylint**, **Bandit**, **Radon**, **Semgrep**, and **SonarQube**.
+      </p>
+      <a href="https://github.com/shaansuraj/RepoScan-CLI" target="_blank">[➡ Visit Repo]</a>
+    </td>
+    <td align="center" width="33%">
+      <h3>Insightify</h3>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaansuraj&repo=insightify&theme=radical" alt="Insightify"/>
+      <p>
+        An Android app that provides **AI-generated news summaries** using **SpaCy NLP**. Integrates with **News API**, supports **bookmarks**, **user authentication**, and summarizing external news links.
+      </p>
+      <a href="https://github.com/shaansuraj/insightify" target="_blank">[➡ Visit Repo]</a>
+    </td>
+    <td align="center" width="33%">
+      <h3>QuickMask VPN</h3>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaansuraj&repo=QuickMask-VPN&theme=radical" alt="QuickMask VPN"/>
+      <p>
+        A **Java & Firebase**-powered VPN app allowing free usage of **100+ servers**. Focused on secure connections and stable performance.
+      </p>
+      <a href="https://github.com/shaansuraj/QuickMask-VPN" target="_blank">[➡ Visit Repo]</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Achievements & Trophies
 <p align="center">
-  🎯 I'm a Software Development Engineer - Backend, specializing in Backend Engineering, Cloud Technologies, and Scalable System Architectures.
-  <br>
-  🌟 With a strong passion for technology, I lead projects that bridge the gap between business needs and technical solutions.
-  <br>
-  🚀 I'm focused on building scalable, high-performance systems using modern cloud infrastructure, particularly on AWS.
+  <img src="https://github-profile-trophy.vercel.app/?username=shaansuraj&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies">
 </p>
 
-<!-- Current Focus -->
-<h2 align="center">What I'm Currently Working On</h2>
-<ul>
-  <li>🔭 Developing <strong>Picgen</strong> - an Anime Wallpaper Generator using Stable Diffusion</li>
-  <li>🌱 Learning <strong>Advanced System Design and Architecture</strong> to continuously enhance my technical expertise.</li>
-  <li>👯 Prompt Engineering</li>
-</ul>
+---
 
-<!-- Projects -->
-<h2 align="center">My Projects</h2>
+## 📈 My GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=shaansuraj&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="180rem"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaansuraj&layout=compact&theme=radical" alt="Top Languages" height="180rem"/>
+
+</div>
+
 <p align="center">
-  👨‍💻 Explore My Projects at <a href="https://github.com/shaansuraj" target="_blank">My Repositories</a>.
-  <br>
-  📝 You can write to me at <a href="mailto:surajsahu9658@gmail.com" target="_blank">Email</a>.
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaansuraj&theme=radical" alt="GitHub Streak" height="180rem"/>
 </p>
 
-<!-- Contact -->
-<h2 align="center">Contact Me</h2>
+---
+
+## 📊 Activity Graph
 <p align="center">
-  💬 Ask me about: <strong>System Design, Backend Development, Cloud Technologies, Generative AI</strong>.
-  <br>
-  📫 Reach me at: <a href="mailto:surajsahu9658@gmail.com"><strong>surajsahu9658@gmail.com</strong></a>.
-  <br>
-  📄 View my experiences on <a href="https://drive.google.com/file/d/1dffIN5SqKfkAZ18HuDU_Yi_E2ocfG9dG/view?usp=sharing" target="_blank">Resume</a>.
-  <br>
-  ⚡ Fun fact: <strong>I curse everyone who checks my repositories but does not leave a star ⭐.</strong>
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=shaansuraj&bg_color=0d1117&color=f89829&line=f85149&point=ffffff&area=true&hide_border=true" 
+       alt="GitHub Activity Graph"
+  />
 </p>
 
-<!-- Social Links -->
-<h2 align="center">Connect with Me</h2>
-<p align="center">
-  <a href="https://twitter.com/shaansuraj01" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/shaansuraj" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://fb.com/shaansuraj16" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"></a>
-  <a href="https://instagram.com/shaan.suraj" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"></a>
-  <a href="https://www.hackerrank.com/surajsahu9658" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"></a>
-</p>
+---
 
-<!-- Languages and Tools -->
-<h2 align="center">Languages and Tools</h2>
+## 🛠️ Languages & Tools
 <p align="center">
+  <!-- Example: AWS -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -193,41 +277,59 @@
   </a>
 </p>
 
+---
 
+## 📜 Resume Snapshot
+<details>
+  <summary><strong>Click to expand my Resume highlights</strong></summary>
+  
+  - **Name**: Suraj (Shaan) Sahu  
+  - **Role**: SDE - Intern at FIL; Cloud & Backend Developer  
+  - **Specialties**: Java, Python, JavaScript, PHP, Spring, ReactJS, NodeJS, MongoDB, PostgreSQL, AWS, Microservices, CI/CD  
+  - **Projects**: 
+    - **Quizzy**: Node.js, PostgreSQL, Memcached, AWS  
+    - **QuickMask VPN**: Java, Firebase, Cloud Messaging  
+    - **Insightify**: Java, Spring Boot, Firebase, MySQL, Python NLP  
+    - **Vulnerability Scanner**: Java Swing, Multi-threading
+  - **Achievements**:  
+    - Top 10 in multiple **hackathons**  
+    - Mentored 30+ devs, contributed to open source  
+    - Expertise in **system scaling** to millions of users  
+  - **Contact**: [surajsahu9658@gmail.com](mailto:surajsahu9658@gmail.com) | [+91 7978013291](tel:+917978013291)
+  - **LinkedIn**: [linkedin.com/in/shaansuraj](https://linkedin.com/in/shaansuraj)
 
-<!-- GitHub Stats -->
-<h1 align="center">Hi 👋, I'm Shaan Suraj</h1>
+</details>
 
+---
+
+## 🔗 Connect with Me
 <p align="center">
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=shaansuraj.shaansuraj" alt="Visitor Count"/>
+  <a href="mailto:surajsahu9658@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/shaansuraj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ShaanSuraj-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/shaansuraj01" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%40shaansuraj01-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/shaansuraj" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-shaansuraj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<h2 align="center">GitHub Statistics</h2>
+---
+
+<!-- SNAKE GAME / FUN ANIMATION -->
 <p align="center">
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shaansuraj&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaansuraj&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaansuraj&theme=radical" alt="GitHub Streak"/>
+  <img 
+       src="https://github.com/shaansuraj/shaansuraj/blob/output/github-contribution-grid-snake.svg" 
+       alt="snake animation" 
+  />
 </p>
 
-<h2 align="center">Achievements</h2>
+<!-- FOOTER GIF / CTA -->
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=shaansuraj&theme=radical" alt="GitHub Trophies"/>
-</p>
-
-<h2 align="center">Activity Graph</h2>
-<p align="center">
-  <!-- Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaansuraj&theme=github" alt="GitHub Activity Graph"/>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  🚀 "Be passionate, be involved, and make an impact."
+  <img src="https://media.giphy.com/media/xUOxfgmQ1r2m09O8mA/giphy.gif" width="200" alt="Working Hard" /><br/>
+  <strong>“Innovation is the outcome of a habit, not a random act.”</strong>
 </p>

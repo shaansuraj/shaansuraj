@@ -1,0 +1,33 @@
+name: Generate Snake Animation
+
+on:
+  schedule: 
+    - cron: "0 5 * * *"  # Runs every day at 05:00 UTC
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository code
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      # Generate the snake animation SVG
+      - name: Generate snake.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: shaansuraj
+          # You can specify additional parameters if needed
+
+      # (Optional) Commit and push the generated SVG to a specific branch or location
+      - name: Commit and Push SVG
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update snake.svg"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

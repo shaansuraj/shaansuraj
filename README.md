@@ -328,6 +328,6 @@ Below are a few of my **featured projects** that showcase my expertise:
 
 <!-- FOOTER GIF / CTA -->
 <p align="center">
-  <img src="https://tenor.com/view/working-late-working-hard-work-jim-carrey-typing-gif-10883024" width="200" alt="Working Hard" /><br/>
+  <img src="https://tenor.com/TPkO.gif" width="200" alt="Working Hard" /><br/>
   <strong>“Innovation is the outcome of a habit, not a random act.”</strong>
 </p>

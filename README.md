@@ -51,7 +51,8 @@ Over the years, I’ve:
 - **Completed 4 internships** across diverse tech stacks  
 - Contributed to projects supporting **thousands of users**  
 - **Mentored** 30+ developers in open-source contributions and hackathons  
-- Achieved top 10 rankings in **national-level hackathons** multiple times  
+- Achieved top 10 rankings in **national-level hackathons** multiple times
+- Youngest member to reach Fidelity International's Internal GC BuildIT Hackathon finals.
 
 Check out my major internship experiences and skill set below to see where I can add value to your team or project.
 
@@ -61,8 +62,8 @@ Check out my major internship experiences and skill set below to see where I can
 
 ## 💼 Internship & Experience Highlights
 **Fidelity International (Jan 2025 - Present)**  
-- Enhanced backend services using **Java + Spring Boot** for high transaction volumes.  
-- Collaborated on **financial applications** ensuring smoother user experiences.
+- Assited in Migrating **On prem OCF PaaS Applications** to **Kubernetes and AWS**.  
+- Collaborated on **financial applications** ensuring smoother migration.
 
 **Celebal Technologies (July 2024 - Sept 2024)**  
 - Built backend systems with **Node.js & MongoDB**, improving solution efficiency by **30%**.  

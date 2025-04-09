@@ -17,8 +17,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=560&lines=Ex-Software Developer+Intern+at+Fidelity+International;Cloud+%2F+Backend+Developer;Open+Source+Contributor+%7C+AI+Explorer;%7C+System+Architect" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=560&lines=Ex-Software+Developer+Intern+at+Fidelity+International;Cloud+/+Backend+Developer;Open+Source+Contributor+%7C+AI+Explorer;System+Architect" alt="Typing SVG" />
 </p>
+
 
 <!-- VISITOR & FOLLOW BADGES -->
 <p align="center">

@@ -41,31 +41,31 @@
 
 
 ## 🚀 About Me
-Hi there! I'm **Suraj Sahu**, a passionate **Software Engineer** pursuing a **BTech in Computer Science & Engineering** at the Institute of Technical Education and Research, Bhubaneswar. I thrive on:
+Hi there! I'm **Suraj Sahu**, a passionate **Software Engineer.** I thrive on:
 
 - **Cloud Platform Applications & Backend Development**  
 - Building **scalable systems** and optimizing performance  
 - Exploring **Generative AI** and **Prompt Engineering**  
 
 Over the years, I’ve:
-- **Completed 4 internships** across diverse tech stacks  
+- **Worked with 4 different companies** across diverse tech stacks  
 - Contributed to projects supporting **thousands of users**  
 - **Mentored** 30+ developers in open-source contributions and hackathons  
 - Achieved top 10 rankings in **national-level hackathons** multiple times
 - Youngest member to reach Fidelity International's Internal GC BuildIT Hackathon finals.
 
-Check out my major internship experiences and skill set below to see where I can add value to your team or project.
+Check out my major experiences and skill set below to see where I can add value to your team or project.
 
 > “**Be passionate, be involved, and make an impact.**”
 
 ---
 
-## 💼 Internship & Experience Highlights
-**Fidelity International (Jan 2025 - Present)**  
+## 💼 Experience Highlights
+**Fidelity International (Jan 2025 - April 2025)**  
 - Assited in Migrating **On prem OCF PaaS Applications** to **Kubernetes and AWS**.  
 - Collaborated on **financial applications** ensuring smoother migration.
 
-**Celebal Technologies (July 2024 - Sept 2024)**  
+**Celebal Technologies (March 2024 - Sept 2024)**  
 - Built backend systems with **Node.js & MongoDB**, improving solution efficiency by **30%**.  
 - **Optimized APIs** and data queries for smoother workflows.
 
@@ -81,7 +81,7 @@ Check out my major internship experiences and skill set below to see where I can
 
 ## 🎓 Education
 **Institute Of Technical Education And Research, Bhubaneswar**  
-- B.Tech in Computer Science & Engineering (2021 - 2025)  
+- B.Tech in Computer Science & Engineering  
 
 ---
 
